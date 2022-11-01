@@ -1,9 +1,6 @@
 # PCA-and-SPCA-Analysis
-High Dimensional Data Learning &amp; Visualization Project - Applying PCA and SPCA methods to a cancer dataset and PCA to a dataset containing spam email. 
-
-This research paper studies cancer prediction from gene expression data using PCA (Principal component analysis) and SPCA (Sparse principal component analysis) methods, and a data set containing spam email was analyzed with PCA. 
-
 ### By: Shawn Petersen and Laura K. Pelayo Uribe
+High Dimensional Data Learning &amp; Visualization Project - Applying PCA and SPCA methods to a cancer dataset and PCA to a dataset containing spam email. This research paper studies cancer prediction from gene expression data using PCA (Principal component analysis) and SPCA (Sparse principal component analysis) methods, and a data set containing spam email was analyzed with PCA. 
 
 ## Datasource, approach and cleaning.
 - The first data set was the Gene Expression Cancer RNA-Seq Data Set which is hosted by the UC Irvine Machine Learning Repository. This data set consists of 801 cancer patients, each exhibiting one of five types of cancer. For each patient, 20,531 gene expressions are recorded as real-valued features.
